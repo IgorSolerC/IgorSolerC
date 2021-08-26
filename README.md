@@ -2,6 +2,6 @@
 
 Curso ciência da computação na Universidade Presbiteriana Mackenzie. 
 
-Estou interessado em desenvolvimento back-end e aprendizado de máquina.
+Estou interessado em desenvolvimento de software, analise de dados e aprendizado de máquina.
 
-Tenho estudado as linguagens Python, C e C++.
+Estudo as linguagens Python, C e C++.
