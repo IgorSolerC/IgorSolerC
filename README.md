@@ -8,6 +8,7 @@
 </a>
 
 <br />
+<br />
 
 - 🧑🏻 Aqui você encontra todos os meus projetos concluidos, feitos por amor a programação e para estudo!
 - 🎓 Curso ciência da computação na Universidade Presbiteriana Mackenzie. 
