@@ -13,5 +13,5 @@
 - 🧑🏻 Aqui você encontra todos os meus projetos concluidos, feitos por amor a programação e para estudo!
 - 🎓 Curso ciência da computação na Universidade Presbiteriana Mackenzie. 
 - 👀 Estou interessado em desenvolvimento de software, analise de dados e aprendizado de máquina.
-- 💻 Estudo as linguagens Python, C e C++.
+- 💻 Estudo as linguagens Python, R, C, C++, SQL, HTML, CSS e JavaScript.
 
