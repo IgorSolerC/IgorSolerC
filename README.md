@@ -14,6 +14,6 @@
 - 🎓 Curso ciência da computação na Universidade Presbiteriana Mackenzie. 
 - 👀 Estou interessado em desenvolvimento de software, analise de dados e aprendizado de máquina.
 - 💻 Estudo as linguagens Python, R, C, C++, SQL, HTML, CSS e JavaScript.
-- 🌈 Tenho familiaridade com os Frame Works Flask, React
+- 🌈 Tenho familiaridade com os frameWorks Flask, React
 - 🧱 Uso os Bancos de Dados SQL Server e MongoDB
 
