@@ -13,7 +13,7 @@
 - 🧑🏻 Aqui você encontra todos os meus projetos concluidos, feitos por amor a programação e para estudo!
 - 🎓 Curso ciência da computação na Universidade Presbiteriana Mackenzie. 
 - 👀 Estou interessado em desenvolvimento de software, desenvolvimento front-end, analise de dados e aprendizado de máquina.
-- 💻 Estudo as linguagens Python, R, C, C++, SQL, HTML, CSS, JavaScript e Java.
+- 💻 Estudo as linguagens Python, R, C, C++, HTML, CSS, JavaScript e Java.
 - 🧱 Tenho familiaridade com os frameWorks Flask, React
 - 📦 Uso os Bancos de Dados SQL Server e MongoDB
 
