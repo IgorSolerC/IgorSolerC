@@ -10,10 +10,10 @@
 <br />
 <br />
 
-- 🧑🏻 Aqui você encontra todos os meus projetos concluidos, feitos por amor a programação e para estudo!
+- 🧑🏻 Aqui você encontra todos os meus projetos concluídos, feitos por amor à programação e para estudo!
 - 🎓 Curso ciência da computação na Universidade Presbiteriana Mackenzie. 
-- 👀 Estou interessado em desenvolvimento de software, desenvolvimento web, analise de dados e aprendizado de máquina.
-- 💻 Foco meus estudos nas linguagens Python, TypeScript e C#
-- 🧱 Tenho familiaridade com os frameworks Flask e React.js
-- 📦 Uso os Bancos de Dados SQL Server e MongoDB
+- 👀 Estou interessado em desenvolvimento de software, desenvolvimento web e aprendizado de máquina.
+- 💻 Foco meus estudos nas linguagens Python, TypeScript e C#.
+- 🧱 Tenho familiaridade com os frameworks Flask e React.js.
+- 📦 Uso os Bancos de Dados SQL Server e MongoDB.
 
